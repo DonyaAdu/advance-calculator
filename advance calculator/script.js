@@ -39,6 +39,6 @@ function calculate() {
 
     display.value = result;
   } catch {
-    display.value = "خطا";
+    display.value = "Error";
   }
 }
